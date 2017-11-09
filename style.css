@@ -96,7 +96,7 @@ div.btn {
   font-size: 20px;
 }
 
-.btn a:hover {
+div.btn a:hover {
   background: #0069d9;
   border-color: #0069d9
 }
