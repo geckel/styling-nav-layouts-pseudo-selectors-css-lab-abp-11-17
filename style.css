@@ -12,7 +12,7 @@ header {
 }
 
 #header a:hover {
-  text-underline-position: below;
+  text-decoration: underline;
 }
 
 header nav {
